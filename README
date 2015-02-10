@@ -1,0 +1,5 @@
+##BuddyPress What's Hot Tab
+
+Adds a What's Hot tab to the BuddyPress activity stream.
+
+What's Hot is defined by items that have received comments, ordered by recency of comments and posts.
