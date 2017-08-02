@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: What's Hot Activity Tab for BuddyPress
-Plugin URI: http://www.hacksawstudio.com
+Plugin URI: https://cornerstoneseducation.co.uk
 Description: Adds a What's Hot Tab to the Activity Stream in BuddyPress.
-Author: Hacksaw
+Author: Edward Townend
 Version: 0.2
-Author URI: http://www.hacksawstudio.com
+Author URI: https://cornerstoneseducation.co.uk
 Text Domain: bp-whats-hot
 */
 
